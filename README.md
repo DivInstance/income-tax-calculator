@@ -10,6 +10,8 @@ It took a lot of time, debugging, and trial-and-error, but I kept going because 
 
 This project is a humble demonstration of how programming can be used for **real-world applications**, even as a beginner.
 
+![Interface Preview](./assets/preview.png)
+
 ---
 
 ## Features
